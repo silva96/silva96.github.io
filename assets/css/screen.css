@@ -790,7 +790,6 @@ iframe {
     border-radius: 0;
     background-image: url(../images/jumbotron.jpg);
     background-size: cover;
-    background-position: 0px -435px;
 }
 
 .jumbotron.fortags a {
