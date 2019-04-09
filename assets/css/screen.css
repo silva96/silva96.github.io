@@ -1,7 +1,7 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
 .mainheading {
     padding: 1rem 0rem;
@@ -790,6 +790,7 @@ iframe {
     border-radius: 0;
     background-image: url(../images/jumbotron.jpg);
     background-size: cover;
+    background-position: 0px -435px;
 }
 
 .jumbotron.fortags a {
