@@ -352,6 +352,9 @@ blockquote {
   text-align: center;
 }
 
+.center {
+  text-align: center;
+}
 .share p {
   margin-bottom: 10px;
   font-size: 0.95rem;
