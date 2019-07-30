@@ -2,7 +2,6 @@
 layout: post
 title: Install Elixir and Erlang with asdf version manager
 author: silva96
-featured: true
 categories: [tools, elixir, erlang]
 image: assets/images/install-elixir-and-erlang-with-asdf.jpg
 ---
